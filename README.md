@@ -12,3 +12,8 @@ git remote add origin https://github.com/你的用户名/你的仓库名.git
 修改本地主分支名称
 git branch -m master main
 
+4.github验证身份
+
+5.继续推送本地提交
+
+
